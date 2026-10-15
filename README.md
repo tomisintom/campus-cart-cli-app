@@ -329,7 +329,6 @@ Correction Tape added successfully
 The current version does not yet provide:
 
 - Permanent database or file storage
-- User authentication for the administrator menu
 - Removal of individual products from the cart
 - Saved or searchable receipt history
 - Tax calculation or payment-method processing
